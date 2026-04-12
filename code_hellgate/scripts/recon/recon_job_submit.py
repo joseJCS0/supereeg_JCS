@@ -158,7 +158,7 @@ except:
     os.makedirs(config['startdir'])
 
 
-if (socket.gethostname() == 'josecsOmarchy'):
+if (socket.gethostname() == 'sarahbethea'):
 
     locks = list()
     for n, c in zip(job_names, job_commands):
